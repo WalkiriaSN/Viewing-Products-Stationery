@@ -1,0 +1,19 @@
+
+
+div{
+    text-align: center;
+    background-color: rgb(227, 226, 241);
+    max-width: fit-content;
+    margin-top: auto;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table, td, th {
+    border: 1px outset rgb(219, 219, 219);
+    background-color: aliceblue;
+}
+
+table{
+    width: 400px;
+    border-collapse: collapse;
+}
